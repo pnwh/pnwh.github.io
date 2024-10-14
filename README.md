@@ -1,2 +1,2 @@
-# Spintops
-https://spintops.github.io
+# Pinwheel
+https://pnwh.github.io
